@@ -204,4 +204,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('VideoPlayer', () => VideoPlayer);
+AppRegistry.registerComponent('hxacc', () => VideoPlayer);
